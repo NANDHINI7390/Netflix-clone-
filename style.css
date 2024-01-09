@@ -1,0 +1,30 @@
+.type img{
+  height:250px;
+  width:auto;
+  margin-right:10px;
+  
+ }
+
+.type img:hover {
+  transform:scale(1.1);
+}
+ 
+.trImg img {
+  height:150px;
+  width:auto;
+  margin-right:10px;
+  
+ } 
+.trImg img:hover {
+  transform: scale(1.1);
+}
+.topImg img{
+  height:150px;
+  width:auto;
+  margin-right:10px;
+  
+ } 
+.topImg img:hover {
+  transform: scale(1.1);
+
+ } 
